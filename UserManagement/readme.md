@@ -1,5 +1,8 @@
 #User mgmt
 
+## Overall Look
+
+![](https://github.com/Darleanow/1DayProjects/blob/main/UserManagement/usrmgmt.jpg)
 
 ## Setup
 
@@ -13,7 +16,5 @@ Clone the repo and compile it.
   ./whatever
 ```
     
-## Demo
 
-![](https://github.com/Darleanow/1DayProjects/blob/main/UserManagement/usrmgmt.jpg)
 
